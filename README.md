@@ -1,1 +1,2 @@
-### :point_right: This app base repo has moved to the [ionic-team/starters](https://github.com/ionic-team/starters/tree/master/ionic1/base) repo! :point_left:
+# Ionic 1 Image take & cache
+- The app is able to take and image and later show the image through a image cache system
